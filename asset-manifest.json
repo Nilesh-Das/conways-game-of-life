@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/GameOfLife/static/css/main.97b5b989.chunk.css",
-    "main.js": "/GameOfLife/static/js/main.94ae357f.chunk.js",
-    "main.js.map": "/GameOfLife/static/js/main.94ae357f.chunk.js.map",
-    "runtime-main.js": "/GameOfLife/static/js/runtime-main.edee70ff.js",
-    "runtime-main.js.map": "/GameOfLife/static/js/runtime-main.edee70ff.js.map",
-    "static/js/2.fb8e7673.chunk.js": "/GameOfLife/static/js/2.fb8e7673.chunk.js",
-    "static/js/2.fb8e7673.chunk.js.map": "/GameOfLife/static/js/2.fb8e7673.chunk.js.map",
-    "index.html": "/GameOfLife/index.html",
-    "static/css/main.97b5b989.chunk.css.map": "/GameOfLife/static/css/main.97b5b989.chunk.css.map",
-    "static/js/2.fb8e7673.chunk.js.LICENSE.txt": "/GameOfLife/static/js/2.fb8e7673.chunk.js.LICENSE.txt"
+    "main.css": "/conways-game-of-life/static/css/main.97b5b989.chunk.css",
+    "main.js": "/conways-game-of-life/static/js/main.94ae357f.chunk.js",
+    "main.js.map": "/conways-game-of-life/static/js/main.94ae357f.chunk.js.map",
+    "runtime-main.js": "/conways-game-of-life/static/js/runtime-main.39992c2f.js",
+    "runtime-main.js.map": "/conways-game-of-life/static/js/runtime-main.39992c2f.js.map",
+    "static/js/2.fb8e7673.chunk.js": "/conways-game-of-life/static/js/2.fb8e7673.chunk.js",
+    "static/js/2.fb8e7673.chunk.js.map": "/conways-game-of-life/static/js/2.fb8e7673.chunk.js.map",
+    "index.html": "/conways-game-of-life/index.html",
+    "static/css/main.97b5b989.chunk.css.map": "/conways-game-of-life/static/css/main.97b5b989.chunk.css.map",
+    "static/js/2.fb8e7673.chunk.js.LICENSE.txt": "/conways-game-of-life/static/js/2.fb8e7673.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.edee70ff.js",
+    "static/js/runtime-main.39992c2f.js",
     "static/js/2.fb8e7673.chunk.js",
     "static/css/main.97b5b989.chunk.css",
     "static/js/main.94ae357f.chunk.js"
